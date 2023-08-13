@@ -43,3 +43,8 @@ This project aims to provide users with a simple tool to predict the intelligenc
 The dataset used in this project was found on Kaggle's public domain. It contains information about various dog breeds and their intelligence score ranges. 
 
 Note: This project was created as part of a data science project and for educational purposes.
+
+## Deployed App on Render
+
+Check out the deployed version of this app on Render: [sd project](https://sd-project-nepj.onrender.com)
+
